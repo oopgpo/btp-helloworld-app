@@ -7,6 +7,7 @@
             <Text text="Accept the button" class="sapUiTinyMarginEnd" id="Text0"/>
             <Button xmlns="sap.m" text="Click the Button" id="Button0" press=".onPress"/>
         </FlexBox>
+        <Image id="Img1" src="https://www.ffwd.org/wp-content/uploads/Hello-World-logo.png" alt="My image file description"/>
     </content>
     </Page>
 </mvc:View>
